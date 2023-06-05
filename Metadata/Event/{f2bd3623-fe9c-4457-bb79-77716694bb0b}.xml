@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{f2bd3623-fe9c-4457-bb79-77716694bb0b}">
-		<property name="note">
-			<value>stereo enhanced in the original, but i have no idea how to do that...</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>spit</value>
 		</property>
