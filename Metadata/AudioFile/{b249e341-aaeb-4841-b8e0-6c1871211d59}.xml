@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b249e341-aaeb-4841-b8e0-6c1871211d59}">
 		<property name="assetPath">
-			<value>together/sound/sfx_secretwallSP.wav</value>
+			<value>modded/sound/sfx_secretwallSP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b969d100-fb90-4936-8acc-5e546b420bbf}">
 		<property name="assetPath">
-			<value>together/71 BONUS Ground Bound.mp3</value>
+			<value>modded/71 BONUS Ground Bound.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

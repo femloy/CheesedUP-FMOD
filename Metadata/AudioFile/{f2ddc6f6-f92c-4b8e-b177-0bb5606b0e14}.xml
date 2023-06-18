@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f2ddc6f6-f92c-4b8e-b177-0bb5606b0e14}">
 		<property name="assetPath">
-			<value>together/70 BONUS Teeth Dust In The Strongcold.mp3</value>
+			<value>modded/70 BONUS Teeth Dust In The Strongcold.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

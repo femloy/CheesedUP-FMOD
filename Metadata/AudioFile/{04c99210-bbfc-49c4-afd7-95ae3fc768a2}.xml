@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{04c99210-bbfc-49c4-afd7-95ae3fc768a2}">
 		<property name="assetPath">
-			<value>together/race/cotton-layer1.ogg</value>
+			<value>modded/race/cotton-layer1.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

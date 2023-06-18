@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1dc78ad1-7da8-4d7e-9e30-4ae43e69a5fc}">
 		<property name="assetPath">
-			<value>together/noisebreakdance.ogg</value>
+			<value>modded/noisebreakdance.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

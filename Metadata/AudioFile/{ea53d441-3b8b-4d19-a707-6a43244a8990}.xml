@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ea53d441-3b8b-4d19-a707-6a43244a8990}">
 		<property name="assetPath">
-			<value>together/mu_pizzyescape.ogg</value>
+			<value>modded/mu_pizzyescape.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

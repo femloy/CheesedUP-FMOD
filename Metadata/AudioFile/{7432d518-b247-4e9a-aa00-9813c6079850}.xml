@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7432d518-b247-4e9a-aa00-9813c6079850}">
 		<property name="assetPath">
-			<value>together/pizzelle secrets/mu_wafflesecret.mp3</value>
+			<value>modded/pizzelle secrets/mu_wafflesecret.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

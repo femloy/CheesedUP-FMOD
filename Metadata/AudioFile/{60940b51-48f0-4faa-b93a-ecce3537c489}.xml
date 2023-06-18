@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{60940b51-48f0-4faa-b93a-ecce3537c489}">
 		<property name="assetPath">
-			<value>together/sound/pizzytaunt/pizzytaunt2.wav</value>
+			<value>modded/sound/pizzytaunt/pizzytaunt2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

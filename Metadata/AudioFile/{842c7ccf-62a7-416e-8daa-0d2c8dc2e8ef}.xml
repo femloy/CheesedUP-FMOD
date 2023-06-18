@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{842c7ccf-62a7-416e-8daa-0d2c8dc2e8ef}">
 		<property name="assetPath">
-			<value>together/sucrose_soundcloud.wav</value>
+			<value>modded/sucrose_soundcloud.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{de64878e-9b34-4c10-a8a5-08830c4a7bd2}">
 		<property name="assetPath">
-			<value>together/pepperman spanish.wav</value>
+			<value>modded/pepperman spanish.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

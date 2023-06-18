@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{614116e2-d232-4131-93b1-345c9d3ff6c3}">
 		<property name="assetPath">
-			<value>together/mu_rodmodsong.ogg</value>
+			<value>modded/mu_rodmodsong.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

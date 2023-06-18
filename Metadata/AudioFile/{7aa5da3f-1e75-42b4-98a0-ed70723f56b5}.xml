@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7aa5da3f-1e75-42b4-98a0-ed70723f56b5}">
 		<property name="assetPath">
-			<value>together/66 BONUS The Noise's Jam-Packed Radical Anthem.mp3</value>
+			<value>modded/66 BONUS The Noise's Jam-Packed Radical Anthem.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

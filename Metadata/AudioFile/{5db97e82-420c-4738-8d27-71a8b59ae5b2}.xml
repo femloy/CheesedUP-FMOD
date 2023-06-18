@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{5db97e82-420c-4738-8d27-71a8b59ae5b2}">
 		<property name="assetPath">
-			<value>together/race/sewer-layer2.ogg</value>
+			<value>modded/race/sewer-layer2.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
