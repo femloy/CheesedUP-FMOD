@@ -152,6 +152,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{3b436b67-71b8-4140-a12f-5c52f6a666a3}" />
 	<object class="SingleSound" id="{37ab99b8-72e7-4337-b7f7-d84cb64fb88c}">
+		<property name="isCutoff">
+			<value>true</value>
+		</property>
 		<property name="start">
 			<value>0.56000000000000005</value>
 		</property>
