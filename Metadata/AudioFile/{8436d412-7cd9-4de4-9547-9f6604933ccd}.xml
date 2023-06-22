@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8436d412-7cd9-4de4-9547-9f6604933ccd}">
 		<property name="assetPath">
-			<value>mu_midway.wav</value>
+			<value>modded/mu_midway.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

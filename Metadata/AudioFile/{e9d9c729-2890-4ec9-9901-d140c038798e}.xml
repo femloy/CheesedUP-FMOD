@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e9d9c729-2890-4ec9-9901-d140c038798e}">
 		<property name="assetPath">
-			<value>UNEARTHLY_FT_TAKYON_AND_LANKY_KONG.wav</value>
+			<value>modded/UNEARTHLY_FT_TAKYON_AND_LANKY_KONG.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
