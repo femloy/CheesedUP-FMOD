@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9166d931-0114-4909-86cb-3d9ec78e2524}">
-		<property name="note" />
 		<property name="name">
 			<value>pizzatimePP</value>
 		</property>
@@ -270,13 +269,16 @@
 			<value>124.36562358276645</value>
 		</property>
 		<property name="volume">
-			<value>-4</value>
+			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{d4ae8ff7-b3f1-47b9-b93e-8d366cb22d26}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{18bec840-e5b6-4f47-91ab-ccc37049cbf7}">
+		<property name="volume">
+			<value>2</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
