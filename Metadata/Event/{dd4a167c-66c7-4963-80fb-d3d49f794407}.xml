@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{dd4a167c-66c7-4963-80fb-d3d49f794407}">
-		<property name="note">
-			<value>I recommend adding a sustain point after pizzatime ends or else it'll bleed into mu_chase after waiting a bit</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>pizzatime</value>
 		</property>

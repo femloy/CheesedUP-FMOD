@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9166d931-0114-4909-86cb-3d9ec78e2524}">
-		<property name="note">
-			<value>I recommend adding a sustain point after pizzatime ends or else it'll bleed into mu_chase after waiting a bit</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>pizzatimePP</value>
 		</property>
@@ -34,6 +32,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{9bdb85c4-9710-4346-a724-97a572ff629c}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{0f26a6da-7451-49f7-834a-ffb0c2d78dc5}">
