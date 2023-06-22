@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{e8dfef7a-3852-4752-967b-c78c9f8f39c5}">
+	<object class="ParameterPreset" id="{c8336135-74dd-475f-9184-a00e8553a1f7}">
 		<property name="name">
-			<value>character</value>
+			<value>PISSINO</value>
 		</property>
 		<relationship name="folder">
 			<destination>{3a75a9c6-6e02-497e-aea6-079f75f09dd9}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{2ce8e3d1-6c77-4cc1-bd5a-f2194a2158d0}</destination>
+			<destination>{fac9fc0a-dc5d-497d-b15d-ba1676d165c6}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{2ce8e3d1-6c77-4cc1-bd5a-f2194a2158d0}">
+	<object class="GameParameter" id="{fac9fc0a-dc5d-497d-b15d-ba1676d165c6}">
 		<property name="parameterType">
 			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>6</value>
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
