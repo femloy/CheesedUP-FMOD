@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{83ad6650-3207-4a87-a2bf-19dca0f6baa4}">
 		<property name="assetPath">
-			<value>sfx_babyface.wav</value>
+			<value>modded/sound/sfx_babyface.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
