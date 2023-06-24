@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{507ff26e-e918-4ae8-9759-24a803d8720b}">
+	<object class="AudioFile" id="{c5d1347e-d0b9-4af6-910d-750a6f26bc40}">
 		<property name="assetPath">
-			<value>sfx_superjumpcancelSP.wav</value>
+			<value>pizza_time.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.5005625</value>
+			<value>0.75755102040816324</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>

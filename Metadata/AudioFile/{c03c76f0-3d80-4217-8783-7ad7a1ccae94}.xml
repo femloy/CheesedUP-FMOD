@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c03c76f0-3d80-4217-8783-7ad7a1ccae94}">
 		<property name="assetPath">
-			<value>sound_bigescapeclock.wav</value>
+			<value>modded/sound/sound_bigescapeclockSP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

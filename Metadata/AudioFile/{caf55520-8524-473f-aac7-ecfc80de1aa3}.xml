@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{caf55520-8524-473f-aac7-ecfc80de1aa3}">
 		<property name="assetPath">
-			<value>lap3 repaint.ogg</value>
+			<value>modded/lap3 repaint.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>127.20312925170067</value>
+			<value>127.2</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>

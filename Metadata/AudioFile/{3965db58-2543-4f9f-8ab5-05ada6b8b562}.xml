@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3965db58-2543-4f9f-8ab5-05ada6b8b562}">
 		<property name="assetPath">
-			<value>sound_toppingot.wav</value>
+			<value>modded/sound/sound_toppingotSP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

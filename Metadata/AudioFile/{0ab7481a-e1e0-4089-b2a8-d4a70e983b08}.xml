@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0ab7481a-e1e0-4089-b2a8-d4a70e983b08}">
 		<property name="assetPath">
-			<value>sound_escapeclock.wav</value>
+			<value>modded/sound/sound_escapeclockSP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
