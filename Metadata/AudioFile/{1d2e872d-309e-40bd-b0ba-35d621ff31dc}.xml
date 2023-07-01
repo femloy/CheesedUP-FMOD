@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1d2e872d-309e-40bd-b0ba-35d621ff31dc}">
 		<property name="assetPath">
-			<value>modded/pissino secrets/got no time.ogg</value>
+			<value>modded/pissino/secrets/got no time.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

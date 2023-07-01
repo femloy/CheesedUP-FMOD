@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dd9d5dbb-6d7b-48f5-9e14-bc8528759c91}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/pissino_vocal_1PP.ogg</value>
+			<value>modded/pissino/pissino_vocal_1PP.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

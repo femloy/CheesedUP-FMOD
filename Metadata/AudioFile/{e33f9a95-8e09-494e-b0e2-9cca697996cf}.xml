@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e33f9a95-8e09-494e-b0e2-9cca697996cf}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/bananaslipPP.wav</value>
+			<value>modded/pissino/bananaslipPP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

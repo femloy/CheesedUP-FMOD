@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{5f86d1cc-2a90-4c87-886e-778bc8aa954f}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/slipnslide4PP.wav</value>
+			<value>modded/pissino/slipnslide4PP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

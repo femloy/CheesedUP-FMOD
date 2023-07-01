@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9f88012e-676f-43ec-a282-884dd545b0ae}">
 		<property name="assetPath">
-			<value>modded/sound/sound_parrySP.wav</value>
+			<value>modded/pizzelle/sound_parrySP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

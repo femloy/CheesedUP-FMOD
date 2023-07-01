@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6ce9f12c-28dd-4e7f-970e-7c68f0a7d255}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/vineboom.mp3</value>
+			<value>modded/pissino/vineboom.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

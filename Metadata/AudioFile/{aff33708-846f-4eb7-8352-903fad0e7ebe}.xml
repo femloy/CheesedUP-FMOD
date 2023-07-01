@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{aff33708-846f-4eb7-8352-903fad0e7ebe}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sjumpcancelPP.mp3</value>
+			<value>modded/pissino/sjumpcancelPP.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

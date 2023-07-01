@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{56485c05-56e0-4e20-a904-72cdfee742b4}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sfx_breakPP.ogg</value>
+			<value>modded/pissino/sfx_breakPP.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

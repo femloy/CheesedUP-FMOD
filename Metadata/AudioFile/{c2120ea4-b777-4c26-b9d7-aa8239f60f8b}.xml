@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c2120ea4-b777-4c26-b9d7-aa8239f60f8b}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/uppercut2_PP.ogg</value>
+			<value>modded/pissino/uppercut2_PP.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

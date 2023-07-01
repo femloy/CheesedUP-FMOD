@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e85b8e48-dfd2-452d-b7ca-f0abc63c7c75}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/machrollPP.wav</value>
+			<value>modded/pissino/machrollPP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

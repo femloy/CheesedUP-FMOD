@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{77b20cf8-d96c-49fa-b7d6-cb46b30b9b4f}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sfx_tauntPP.ogg</value>
+			<value>modded/pissino/sfx_tauntPP.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

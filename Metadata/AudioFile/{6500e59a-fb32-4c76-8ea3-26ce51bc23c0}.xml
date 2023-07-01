@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6500e59a-fb32-4c76-8ea3-26ce51bc23c0}">
 		<property name="assetPath">
-			<value>modded/pissino secrets/crazy frog.ogg</value>
+			<value>modded/pissino/secrets/crazy frog.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

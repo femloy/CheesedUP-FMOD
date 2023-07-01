@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1ecfe99d-3b3b-417f-accf-21cf407e8b0d}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sfx_machslideboostPP.ogg</value>
+			<value>modded/pissino/sfx_machslideboostPP.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

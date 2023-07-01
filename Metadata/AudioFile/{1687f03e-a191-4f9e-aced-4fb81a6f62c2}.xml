@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{1687f03e-a191-4f9e-aced-4fb81a6f62c2}">
 		<property name="assetPath">
-			<value>modded/mu_pizzatimeBN.wav</value>
+			<value>modded/bo noise/mu_pizzatimeBN.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

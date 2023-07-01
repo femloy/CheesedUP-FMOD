@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7a589140-78be-4f2e-8677-655ee0c93e09}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sfx_collectgiantpizza.ogg</value>
+			<value>modded/pissino/sfx_collectgiantpizza.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

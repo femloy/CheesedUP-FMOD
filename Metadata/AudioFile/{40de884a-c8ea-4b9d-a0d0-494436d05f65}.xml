@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{40de884a-c8ea-4b9d-a0d0-494436d05f65}">
 		<property name="assetPath">
-			<value>modded/pissino secrets/no more nuzzles.ogg</value>
+			<value>modded/pissino/secrets/no more nuzzles.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

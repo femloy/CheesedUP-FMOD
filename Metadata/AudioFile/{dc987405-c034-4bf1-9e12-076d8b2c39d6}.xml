@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dc987405-c034-4bf1-9e12-076d8b2c39d6}">
 		<property name="assetPath">
-			<value>modded/mu_lapmusicBN.wav</value>
+			<value>modded/bo noise/mu_lapmusicBN.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

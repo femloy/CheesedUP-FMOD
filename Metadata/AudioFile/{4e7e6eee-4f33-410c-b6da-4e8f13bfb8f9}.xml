@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{4e7e6eee-4f33-410c-b6da-4e8f13bfb8f9}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/sfx_stepPP.wav</value>
+			<value>modded/pissino/sfx_stepPP.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

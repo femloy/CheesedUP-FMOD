@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{016a9f4b-4326-4fcb-bb69-b8262b44e30a}">
 		<property name="assetPath">
-			<value>modded/pissino secrets/</value>
+			<value>modded/pissino/secrets/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>

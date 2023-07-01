@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a5ddec0b-681f-4a72-bd81-94258f96e988}">
 		<property name="assetPath">
-			<value>modded/mu_escapePP.wav</value>
+			<value>modded/pissino/mu_escapePP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

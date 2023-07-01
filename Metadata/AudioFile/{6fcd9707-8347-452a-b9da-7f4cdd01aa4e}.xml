@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6fcd9707-8347-452a-b9da-7f4cdd01aa4e}">
 		<property name="assetPath">
-			<value>modded/mu_rankcBN.wav</value>
+			<value>modded/bo noise/mu_rankcBN.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

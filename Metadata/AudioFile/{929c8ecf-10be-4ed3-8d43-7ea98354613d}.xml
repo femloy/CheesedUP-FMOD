@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{929c8ecf-10be-4ed3-8d43-7ea98354613d}">
 		<property name="assetPath">
-			<value>modded/pissino secrets/tig ol bitties.ogg</value>
+			<value>modded/pissino/secrets/tig ol bitties.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b9f98c95-d0c4-479f-9821-b29b081389f8}">
 		<property name="assetPath">
-			<value>modded/sfx_secretportalenterSP.mp3</value>
+			<value>modded/sugary spire/sfx_secretportalenterSP.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

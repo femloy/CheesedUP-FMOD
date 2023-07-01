@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{38e5018f-c2e2-4ee7-90e7-4f18e7000e5e}">
 		<property name="assetPath">
-			<value>modded/pizzelle secrets/ruinsecretSP.ogg</value>
+			<value>modded/pizzelle/secrets/ruinsecretSP.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

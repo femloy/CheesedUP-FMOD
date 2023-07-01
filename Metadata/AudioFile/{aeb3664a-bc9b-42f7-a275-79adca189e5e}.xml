@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{aeb3664a-bc9b-42f7-a275-79adca189e5e}">
 		<property name="assetPath">
-			<value>modded/bo noise secrets/desertsecretBN.ogg</value>
+			<value>modded/bo noise/secrets/desertsecretBN.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

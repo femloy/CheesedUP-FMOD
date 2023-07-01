@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ddfd1e73-edb7-4a41-bf81-840a8a25aecc}">
 		<property name="assetPath">
-			<value>modded/sound/pissino/mu_rankPPP.ogg</value>
+			<value>modded/pissino/mu_rankPPP.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

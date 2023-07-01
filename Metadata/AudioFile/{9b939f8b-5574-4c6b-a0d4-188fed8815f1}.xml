@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9b939f8b-5574-4c6b-a0d4-188fed8815f1}">
 		<property name="assetPath">
-			<value>modded/mu_lap2PP.mp3</value>
+			<value>modded/pissino/mu_lap2PP.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
