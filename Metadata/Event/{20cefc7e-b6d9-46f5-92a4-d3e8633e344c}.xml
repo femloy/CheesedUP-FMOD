@@ -149,7 +149,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{0d0710fb-2a7b-4a64-ba11-a34f101866fb}">
 		<property name="volume">
-			<value>-4</value>
+			<value>-0.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{e79db576-55c9-4743-8df7-a26ef26c7de2}</destination>
@@ -294,7 +294,7 @@
 	</object>
 	<object class="SingleSound" id="{562b9b14-7b8b-43f2-b088-3840be1cffe3}">
 		<property name="length">
-			<value>9.0141496598639463</value>
+			<value>7.7000000000000002</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{55228ff6-3b77-4470-85d9-ec7270198e82}</destination>
