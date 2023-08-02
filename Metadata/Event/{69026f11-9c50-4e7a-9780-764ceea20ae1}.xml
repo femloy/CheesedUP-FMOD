@@ -135,6 +135,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{32c46bfb-2b75-47f0-a15b-1245eeac7648}" />
 	<object class="SingleSound" id="{94355871-8bbf-4e1b-a32b-683180b84b0d}">
+		<property name="start">
+			<value>160</value>
+		</property>
 		<property name="length">
 			<value>144</value>
 		</property>
@@ -143,9 +146,6 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{45f17b04-ce12-4649-819a-04c461c2017f}">
-		<property name="start">
-			<value>160</value>
-		</property>
 		<property name="length">
 			<value>147.69231292517006</value>
 		</property>
@@ -192,7 +192,7 @@
 	</object>
 	<object class="LoopRegion" id="{2180dec4-ed77-4b28-8f44-083127fd4e08}">
 		<property name="position">
-			<value>0</value>
+			<value>160</value>
 		</property>
 		<property name="length">
 			<value>144</value>
@@ -206,7 +206,7 @@
 	</object>
 	<object class="LoopRegion" id="{58423566-aade-482a-bff2-8630d83e33e4}">
 		<property name="position">
-			<value>160</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>147.69231292517009</value>
@@ -220,7 +220,7 @@
 	</object>
 	<object class="LoopRegion" id="{be9d46ee-6d9f-4f5e-be35-28b7dc0ce347}">
 		<property name="position">
-			<value>0</value>
+			<value>160</value>
 		</property>
 		<property name="length">
 			<value>144</value>
@@ -246,7 +246,7 @@
 	</object>
 	<object class="LoopRegion" id="{acc6e9bf-e262-4c4c-99be-57dc1c876408}">
 		<property name="position">
-			<value>160</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>147.69231292517009</value>
