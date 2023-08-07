@@ -5,7 +5,7 @@
 			<value>noisette</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c3b26cd8-9f16-4586-af51-8f7ffd90be6f}</destination>
@@ -81,9 +81,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{4d9a884a-73d7-4139-91fd-d6f7086d2ff7}">
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<relationship name="effectChain">
 			<destination>{f0d908b9-e7fc-4472-b924-4cce9c0479b6}</destination>
 		</relationship>
@@ -165,6 +162,7 @@
 	<object class="MixerBusEffectChain" id="{f0d908b9-e7fc-4472-b924-4cce9c0479b6}">
 		<relationship name="effects">
 			<destination>{ba6cce20-62e5-4bfb-890e-0186283c6574}</destination>
+			<destination>{10a66e97-36d3-4bce-85a3-7da457e2a63f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a6cac663-d7e6-4849-bc30-8119a44019d8}" />
@@ -187,5 +185,13 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{ba6cce20-62e5-4bfb-890e-0186283c6574}" />
+	<object class="ProxyEffect" id="{10a66e97-36d3-4bce-85a3-7da457e2a63f}">
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="preset">
+			<destination>{544615da-5f6b-4e23-8fe1-24657667d5fd}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{99b03f2b-0c04-4451-8afa-9ac2b3e78c0c}" />
 </objects>
