@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dc785b63-3ca3-46a0-8487-18b55f05acbc}">
 		<property name="assetPath">
-			<value>modded/sugary spire/mu_minessecret.ogg</value>
+			<value>modded/pizzelle/secrets/mu_minessecret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

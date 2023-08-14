@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8f63e440-1f26-42de-9e8a-86e6eac728c3}">
 		<property name="assetPath">
-			<value>modded/mu_estate.ogg</value>
+			<value>modded/sugary spire/mu_estate.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

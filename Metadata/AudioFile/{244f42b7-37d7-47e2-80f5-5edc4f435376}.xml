@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{244f42b7-37d7-47e2-80f5-5edc4f435376}">
 		<property name="assetPath">
-			<value>modded/sugary spire/mu_swampsecret.ogg</value>
+			<value>modded/pizzelle/secrets/mu_swampsecret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
