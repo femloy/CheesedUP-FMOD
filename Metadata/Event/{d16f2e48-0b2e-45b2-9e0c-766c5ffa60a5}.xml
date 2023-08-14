@@ -31,9 +31,6 @@
 		<relationship name="timeline">
 			<destination>{6a57b638-fdcb-4462-915a-b212a47542fd}</destination>
 		</relationship>
-		<relationship name="banks">
-			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
-		</relationship>
 	</object>
 	<object class="EventMixer" id="{bbed2df1-ff41-4c67-9e2e-f7ce94083340}">
 		<relationship name="masterBus">
@@ -115,10 +112,10 @@
 	</object>
 	<object class="LoopRegion" id="{81b868e2-04fa-460c-872d-11ad4e2e48ea}">
 		<property name="position">
-			<value>4.46</value>
+			<value>4.6450000000000005</value>
 		</property>
 		<property name="length">
-			<value>221.57231152641529</value>
+			<value>221.54499999999999</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{6a57b638-fdcb-4462-915a-b212a47542fd}</destination>
