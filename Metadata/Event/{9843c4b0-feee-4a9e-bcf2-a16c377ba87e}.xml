@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9843c4b0-feee-4a9e-bcf2-a16c377ba87e}">
-		<property name="note">
-			<value>inaccurate? the voice sounds like it has an effect</value>
-		</property>
+		<property name="note" />
 		<property name="name">
-			<value>fireassN</value>
+			<value>fireass</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -149,7 +147,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4fc5f821-38b9-423b-8081-a1362dbc102c}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-9</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
