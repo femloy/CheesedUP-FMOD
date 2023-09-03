@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9a57d2ec-8093-4a3f-9ecc-465ffa224d14}">
+	<object class="AudioFile" id="{0708ed56-99a5-4360-bac7-2f003d3bb318}">
 		<property name="assetPath">
-			<value>modded/race/ruin-layer1.ogg</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>modded/sugary spire/sound/sfx_coneball.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>112</value>
+			<value>3.0824489795918368</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>
