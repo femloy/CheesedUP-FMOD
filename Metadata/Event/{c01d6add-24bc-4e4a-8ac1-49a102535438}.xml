@@ -239,16 +239,16 @@
 	</object>
 	<object class="SingleSound" id="{afc8d4df-045f-4739-8cd4-82dfb072f53e}">
 		<property name="start">
-			<value>629.928</value>
+			<value>630</value>
 		</property>
 		<property name="length">
-			<value>127.27479166666667</value>
+			<value>122.40000000000001</value>
 		</property>
 		<property name="volume">
 			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{dc360e40-618f-47f5-ba0f-ae86fdbb5fac}</destination>
+			<destination>{c36c2188-2179-465a-859d-061c0072bf91}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{de3b7539-ffb9-4735-8c22-2e0844ad0c89}">
@@ -304,10 +304,10 @@
 	</object>
 	<object class="LoopRegion" id="{6d765a4e-cc9d-4b11-9cf0-accfb65a1ea5}">
 		<property name="position">
-			<value>639.60199999999998</value>
+			<value>630</value>
 		</property>
 		<property name="length">
-			<value>100.78800000000001</value>
+			<value>122.39999999999998</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{b99f941a-a830-4d42-9220-39125dc4f77c}</destination>

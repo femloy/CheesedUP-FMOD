@@ -229,16 +229,16 @@
 	</object>
 	<object class="SingleSound" id="{da717dd4-72b3-4375-a947-38c96a88cbbf}">
 		<property name="start">
-			<value>660</value>
+			<value>660.072</value>
 		</property>
 		<property name="length">
-			<value>127.27479166666667</value>
+			<value>122.40000000000001</value>
 		</property>
 		<property name="volume">
 			<value>-2</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{dc360e40-618f-47f5-ba0f-ae86fdbb5fac}</destination>
+			<destination>{c36c2188-2179-465a-859d-061c0072bf91}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{31e5543b-7296-4827-a112-c026fddfb4fe}">
@@ -388,10 +388,10 @@
 	</object>
 	<object class="LoopRegion" id="{87537e21-6419-4488-b9a7-302941f5ca58}">
 		<property name="position">
-			<value>664.822</value>
+			<value>660.072</value>
 		</property>
 		<property name="length">
-			<value>122.40999999999997</value>
+			<value>122.39999999999998</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{f9cfac53-2134-4cb0-ac08-6124edc9bfd3}</destination>
