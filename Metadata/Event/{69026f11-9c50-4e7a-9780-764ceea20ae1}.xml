@@ -25,6 +25,7 @@
 		<relationship name="markerTracks">
 			<destination>{a2ce3d26-de3a-4e84-9872-d9c1f980b98e}</destination>
 			<destination>{8ddf2d6b-d42f-4772-91ac-1b19ef0accda}</destination>
+			<destination>{f990c2b1-611c-44e6-b399-3386bffcd63f}</destination>
 		</relationship>
 		<relationship name="groupTracks">
 			<destination>{f68d9028-96a2-4bd0-9806-0d7fe12b269e}</destination>
@@ -66,6 +67,7 @@
 	<object class="EventAutomatableProperties" id="{fd578e5a-abde-4e89-8b09-eaa4b65c30b5}" />
 	<object class="MarkerTrack" id="{a2ce3d26-de3a-4e84-9872-d9c1f980b98e}" />
 	<object class="MarkerTrack" id="{8ddf2d6b-d42f-4772-91ac-1b19ef0accda}" />
+	<object class="MarkerTrack" id="{f990c2b1-611c-44e6-b399-3386bffcd63f}" />
 	<object class="GroupTrack" id="{f68d9028-96a2-4bd0-9806-0d7fe12b269e}">
 		<relationship name="modules">
 			<destination>{94355871-8bbf-4e1b-a32b-683180b84b0d}</destination>
@@ -89,6 +91,7 @@
 			<destination>{58423566-aade-482a-bff2-8630d83e33e4}</destination>
 			<destination>{be9d46ee-6d9f-4f5e-be35-28b7dc0ce347}</destination>
 			<destination>{acc6e9bf-e262-4c4c-99be-57dc1c876408}</destination>
+			<destination>{0b5486b2-d5b2-4600-8fef-c6f8b8ce79a9}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{2f8e65b8-4d7a-4f72-9c5e-b9fae30c84fb}">
@@ -265,6 +268,20 @@
 		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{66b0e232-b81c-432a-84fc-49d82258a197}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{0b5486b2-d5b2-4600-8fef-c6f8b8ce79a9}">
+		<property name="position">
+			<value>155</value>
+		</property>
+		<property name="tempo">
+			<value>130</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{be9f2c8a-2c4f-4fd3-8646-42f656ed4925}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{f990c2b1-611c-44e6-b399-3386bffcd63f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{86acfd0a-6439-44ce-bcaf-7a73cc18cf89}">

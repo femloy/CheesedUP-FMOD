@@ -26,6 +26,7 @@
 			<destination>{a24c1eda-b46b-49d7-8fd0-d48fb2dca5ef}</destination>
 			<destination>{72e541b2-e5da-466d-bad2-514a57855652}</destination>
 			<destination>{2430feea-2337-4f64-9df6-ccf7691acbdd}</destination>
+			<destination>{ab1c2df2-17d8-4b66-8105-15734d65b512}</destination>
 		</relationship>
 		<relationship name="groupTracks">
 			<destination>{12419d53-f54f-4bda-a6c3-a4e4ef2e1f4a}</destination>
@@ -74,6 +75,7 @@
 	<object class="MarkerTrack" id="{a24c1eda-b46b-49d7-8fd0-d48fb2dca5ef}" />
 	<object class="MarkerTrack" id="{72e541b2-e5da-466d-bad2-514a57855652}" />
 	<object class="MarkerTrack" id="{2430feea-2337-4f64-9df6-ccf7691acbdd}" />
+	<object class="MarkerTrack" id="{ab1c2df2-17d8-4b66-8105-15734d65b512}" />
 	<object class="GroupTrack" id="{12419d53-f54f-4bda-a6c3-a4e4ef2e1f4a}">
 		<relationship name="modules">
 			<destination>{de45772e-c90e-49e5-9913-fdc8dd250bcc}</destination>
@@ -113,6 +115,7 @@
 			<destination>{e7ce4e85-bb41-411b-a2d3-a6fee2b0cf5a}</destination>
 			<destination>{9fbf0d1c-f845-420a-98db-550bcb52bff3}</destination>
 			<destination>{74d7fd6c-f182-4862-b007-84545a6767e8}</destination>
+			<destination>{8150b4a6-13c9-4aed-b9fe-eda55f31d547}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{cb570c91-47ff-4d3c-bac9-ad8cff24835d}">
@@ -512,6 +515,20 @@
 		</relationship>
 		<relationship name="transitionTimeline">
 			<destination>{e4bf2dc1-8bb1-4c39-8ada-732f9bf72d09}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{8150b4a6-13c9-4aed-b9fe-eda55f31d547}">
+		<property name="position">
+			<value>300</value>
+		</property>
+		<property name="tempo">
+			<value>175</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f9cfac53-2134-4cb0-ac08-6124edc9bfd3}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{ab1c2df2-17d8-4b66-8105-15734d65b512}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{f6587072-a902-45c1-8051-f6f43f405cb8}">
