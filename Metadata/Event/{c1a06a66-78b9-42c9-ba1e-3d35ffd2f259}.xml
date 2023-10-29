@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c1a06a66-78b9-42c9-ba1e-3d35ffd2f259}">
-		<property name="note" />
 		<property name="name">
 			<value>thunder</value>
 		</property>
@@ -9,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{f886a030-f0df-45b6-8373-095ea653c8d2}</destination>
+			<destination>{0e73e761-03e6-449c-9b8b-a05c9a954689}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{d32b61bb-c02d-4bfa-8257-28dd75e5e58f}</destination>
