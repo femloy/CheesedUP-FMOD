@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{56c78680-eaa4-4c15-9927-11eedfc162f8}">
 		<property name="assetPath">
-			<value>pumpkin.wav</value>
+			<value>sfx/pumpkin.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

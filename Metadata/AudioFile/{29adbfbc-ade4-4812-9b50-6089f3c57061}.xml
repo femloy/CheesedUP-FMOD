@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{29adbfbc-ade4-4812-9b50-6089f3c57061}">
 		<property name="assetPath">
-			<value>Spacey_Pumpkins.wav</value>
+			<value>music/Spacey_Pumpkins.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
