@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9b0dceeb-8de1-45f9-8bc0-47226d4e901c}">
 		<property name="name">
-			<value>therunner</value>
+			<value>56 therunner</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -30,6 +30,11 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{65953da0-2a67-4443-8dfc-fb8982218d56}</destination>
+		</relationship>
+		<relationship name="userProperties">
+			<destination>{f01e4c36-6519-4db1-80fc-d1fce9a79119}</destination>
+			<destination>{3d9935e9-949e-4e3d-9df5-a5fd99cc6d6a}</destination>
+			<destination>{44f2c076-045a-469f-98e0-fa391d50961d}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -73,6 +78,30 @@
 		<relationship name="markers">
 			<destination>{69c0ef24-bd92-4c0a-aed4-19090875bb46}</destination>
 		</relationship>
+	</object>
+	<object class="UserProperty" id="{f01e4c36-6519-4db1-80fc-d1fce9a79119}">
+		<property name="key">
+			<value>name</value>
+		</property>
+		<property name="value">
+			<value>The Runner</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{3d9935e9-949e-4e3d-9df5-a5fd99cc6d6a}">
+		<property name="key">
+			<value>author</value>
+		</property>
+		<property name="value">
+			<value>MrSauceman</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{44f2c076-045a-469f-98e0-fa391d50961d}">
+		<property name="key">
+			<value>game</value>
+		</property>
+		<property name="value">
+			<value>Pizza Tower</value>
+		</property>
 	</object>
 	<object class="EventMixerMaster" id="{d6ceb45d-3691-4f12-9c0b-52c1e3b5e2c2}">
 		<relationship name="effectChain">
@@ -121,7 +150,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>229.40733333333333</value>
+			<value>227</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{65953da0-2a67-4443-8dfc-fb8982218d56}</destination>

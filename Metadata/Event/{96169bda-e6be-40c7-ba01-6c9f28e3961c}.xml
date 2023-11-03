@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{96169bda-e6be-40c7-ba01-6c9f28e3961c}">
 		<property name="name">
-			<value>secretlockin</value>
+			<value>53 secretlockin</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -30,6 +30,12 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{9f52c9c7-26c5-42a7-93f1-9e614abd7862}</destination>
+		</relationship>
+		<relationship name="userProperties">
+			<destination>{3d534e69-6f0a-4d64-a0c9-ddf0e6fee97c}</destination>
+			<destination>{08c97071-0424-42cc-9f73-70d5a4566f6f}</destination>
+			<destination>{11dbb9a2-bfac-47f0-860a-1fa09e6c49b6}</destination>
+			<destination>{2091a8ee-36b3-482a-9649-7cec64d2f7bd}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -73,6 +79,38 @@
 		<relationship name="markers">
 			<destination>{8a235072-64a7-454a-a0c3-4850d8bc4eb9}</destination>
 		</relationship>
+	</object>
+	<object class="UserProperty" id="{3d534e69-6f0a-4d64-a0c9-ddf0e6fee97c}">
+		<property name="key">
+			<value>name</value>
+		</property>
+		<property name="value">
+			<value>Secret Lockin'</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{08c97071-0424-42cc-9f73-70d5a4566f6f}">
+		<property name="key">
+			<value>author</value>
+		</property>
+		<property name="value">
+			<value>ClascyJitto</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{11dbb9a2-bfac-47f0-860a-1fa09e6c49b6}">
+		<property name="key">
+			<value>game</value>
+		</property>
+		<property name="value">
+			<value>Pizza Tower</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{2091a8ee-36b3-482a-9649-7cec64d2f7bd}">
+		<property name="key">
+			<value>order</value>
+		</property>
+		<property name="value">
+			<value>53</value>
+		</property>
 	</object>
 	<object class="EventMixerMaster" id="{a59f0d21-3ca7-4475-a48f-550d7e87fdba}">
 		<relationship name="effectChain">

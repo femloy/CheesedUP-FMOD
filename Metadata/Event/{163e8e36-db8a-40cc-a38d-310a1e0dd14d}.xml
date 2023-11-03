@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{163e8e36-db8a-40cc-a38d-310a1e0dd14d}">
 		<property name="name">
-			<value>thebonerattler</value>
+			<value>55 thebonerattler</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -30,6 +30,11 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{6e7394de-cc65-4f53-b89a-8bf96717ad1a}</destination>
+		</relationship>
+		<relationship name="userProperties">
+			<destination>{d5e30e54-0f84-4897-ab84-3169da0a61c3}</destination>
+			<destination>{29f547bc-632b-4e15-8638-9380a92c715d}</destination>
+			<destination>{c1e2b9f4-217f-468a-bfb1-b88d8587a405}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -74,6 +79,30 @@
 			<destination>{12e20bf1-ddd6-450e-9d74-312560c6c4f5}</destination>
 		</relationship>
 	</object>
+	<object class="UserProperty" id="{d5e30e54-0f84-4897-ab84-3169da0a61c3}">
+		<property name="key">
+			<value>name</value>
+		</property>
+		<property name="value">
+			<value>The Bone Rattler</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{29f547bc-632b-4e15-8638-9380a92c715d}">
+		<property name="key">
+			<value>author</value>
+		</property>
+		<property name="value">
+			<value>MrSauceman</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{c1e2b9f4-217f-468a-bfb1-b88d8587a405}">
+		<property name="key">
+			<value>game</value>
+		</property>
+		<property name="value">
+			<value>Pizza Tower</value>
+		</property>
+	</object>
 	<object class="EventMixerMaster" id="{5a896b6f-cc14-4f83-b29a-7258753b4212}">
 		<relationship name="effectChain">
 			<destination>{cc711200-092a-4eba-905e-6c5c014e4f52}</destination>
@@ -93,16 +122,16 @@
 	<object class="MixerBusPanner" id="{3b0f95f3-256e-43dc-bc0b-7f514bc0872c}" />
 	<object class="SingleSound" id="{ba532e5b-65ee-4760-96ce-d00f58a29cc0}">
 		<property name="length">
-			<value>116.16652083333334</value>
+			<value>115.70652083333333</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>0.46000000000000002</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{ed731643-7709-4bda-83c3-9388030ae629}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bfb44797-850d-49c1-8905-e573fb18cb98}">
-		<property name="volume">
-			<value>-2</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -118,10 +147,10 @@
 	</object>
 	<object class="LoopRegion" id="{12e20bf1-ddd6-450e-9d74-312560c6c4f5}">
 		<property name="position">
-			<value>0</value>
+			<value>13.1</value>
 		</property>
 		<property name="length">
-			<value>116.16652083333334</value>
+			<value>96.780000000000001</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{6e7394de-cc65-4f53-b89a-8bf96717ad1a}</destination>
