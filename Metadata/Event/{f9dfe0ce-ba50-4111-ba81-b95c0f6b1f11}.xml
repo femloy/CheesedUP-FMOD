@@ -181,10 +181,10 @@
 			<value>180.27345833333337</value>
 		</property>
 		<property name="length">
-			<value>182.56097505668933</value>
+			<value>182.23020408163265</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{2ff3ad23-9b37-4d28-b794-e66c8bfaab8b}</destination>
+			<destination>{e0827547-a7ab-4025-8919-62109dca9ded}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{804e8d48-3623-470c-ac1d-5ef401cedfce}">
@@ -543,7 +543,7 @@
 			<value>185.40000000000001</value>
 		</property>
 		<property name="length">
-			<value>169.76000000000002</value>
+			<value>166.48999999999998</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{b532ca81-2820-45b5-8a4c-7e70ce443d43}</destination>
